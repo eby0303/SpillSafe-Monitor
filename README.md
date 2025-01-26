@@ -1,4 +1,4 @@
-# # Automated Vessel Anomaly and Oil Spill Detection System
+# Automated Vessel Anomaly and Oil Spill Detection System
 
 ## THIS IS A PROTOTYPE
 This project aims to create a real-time vessel tracking system with anomaly detection and oil spill identification using AIS data and satellite imagery.
