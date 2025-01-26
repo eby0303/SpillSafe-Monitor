@@ -10,7 +10,7 @@ import time
 from main_page import main_page, simulate_anomaly_detection
 from vessel_detail import vessel_detail_page
 from vessel_alert import document_viewer
-from satelliteimages import satellite_images
+# from satelliteimages import satellite_images
 
 
 # Sidebar
@@ -46,8 +46,8 @@ def main():
         vessel_detail_page()  # Call the function for the vessel details page
     elif selected == "Vessel Alert Docs":
         document_viewer()
-    elif selected == "Satellite Images":
-        satellite_images()
+    # elif selected == "Satellite Images":
+    #     satellite_images()
         
 if __name__ == "__main__":
     main()

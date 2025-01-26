@@ -52,7 +52,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
     ```bash
     git clone https://github.com/yourusername/vessel-anomaly-detection.git
-    cd vessel-anomaly-detection
+    cd APP
     ```
 
 2. Create a virtual environment and install dependencies:
